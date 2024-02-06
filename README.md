@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I am Abdullah Al Masud 👋
 
-<!--
-**abd-masud/abd-masud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer
 
-Here are some ideas to get you started:
+### [Download My Resume 📖](https://drive.google.com/file/d/1jgFI8bdqp1ZYne1g3vqVB2VA2uLsVZMQ/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img src="https://github-profile-trophy.vercel.app/?username=abd-masud&theme=onedark"></p>
+
+-   💬 Ask me about JavaScript, React, Next.js
+
+-   📫 How to reach me: abdmasud.2000@gmail.com
+
+-   👨‍💻 Here is my portfolio https://abdmasud.netlify.app/
