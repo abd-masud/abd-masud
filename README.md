@@ -4,6 +4,8 @@
 
 ### [Download My Resume 📖](https://drive.google.com/file/d/1jgFI8bdqp1ZYne1g3vqVB2VA2uLsVZMQ/view?usp=sharing)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-masud&label=Profile%20views&color=0e75b6&style=flat" alt="abd-masud" /> </p>
+
 <p><img src="https://github-profile-trophy.vercel.app/?username=abd-masud&theme=onedark"></p>
 
 -   💬 Ask me about JavaScript, React, Next.js
