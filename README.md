@@ -27,3 +27,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff) &nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=ffffff) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7D19F9?style=for-the-badge&logo=bootstrap&logoColor=ffffff) &nbsp;
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact)](https://github.com/shofiq0023/github-readme-stats)
