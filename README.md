@@ -4,8 +4,6 @@
 
 ### [Download My Resume 📖](https://drive.google.com/file/d/1jgFI8bdqp1ZYne1g3vqVB2VA2uLsVZMQ/view?usp=sharing)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-masud&label=Profile%20views&color=0e75b6&style=flat" alt="abd-masud" /> </p>
-
 <p><img src="https://github-profile-trophy.vercel.app/?username=abd-masud&theme=onedark"></p>
 
 -   💬 Ask me about JavaScript, React, Next.js
@@ -23,7 +21,9 @@
 
 #### - **Top Skills:**
 
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=23F7DF1E) &nbsp;
-![TypeScript](https://img.shields.io/badge/Typescript-F1F1F1?style=for-the-badge&logo=typescript&logoColor=2F74C0) &nbsp;
-![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-F1F1F1?style=for-the-badge&logo=next.js&logoColor=000000) &nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-EFD81D?style=for-the-badge&logo=javascript&logoColor=ffffff) &nbsp;
+![TypeScript](https://img.shields.io/badge/Typescript-2F74C0?style=for-the-badge&logo=typescript&logoColor=ffffff) &nbsp;
+![React](https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=ffffff) &nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff) &nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=ffffff) &nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7D19F9?style=for-the-badge&logo=bootstrap&logoColor=ffffff) &nbsp;
