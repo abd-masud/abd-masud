@@ -26,7 +26,24 @@
 ![React](https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=ffffff) &nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff) &nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=ffffff) &nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7D19F9?style=for-the-badge&logo=bootstrap&logoColor=ffffff) &nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7D19F9?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+
+#### - **Other languages:**
+
+![Python](https://img.shields.io/badge/Python-3571A3?style=for-the-badge&logo=python&logoColor=ffffff) &nbsp;
+![PHP](https://img.shields.io/badge/php-4D588E?style=for-the-badge&logo=php&logoColor=ffffff) &nbsp;
+![C#](https://img.shields.io/badge/csharp-5632D5?style=for-the-badge&logo=csharp&logoColor=ffffff) &nbsp;
+![Java](https://img.shields.io/badge/java-ED272C?style=for-the-badge&logo=java&logoColor=ffffff)
+
+#### - **Databases:**
+
+![MySQL](https://img.shields.io/badge/mysql-4A7DA4?style=for-the-badge&logo=mysql&logoColor=ffffff) &nbsp;
+
+#### - Tools & Others:
+
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) &nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) &nbsp;
 
 <br />
 
