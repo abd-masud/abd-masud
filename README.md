@@ -30,4 +30,4 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq0023&layout=compact)](https://github.com/shofiq0023/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-masud&layout=compact)](https://github.com/abd-masud/github-readme-stats)
